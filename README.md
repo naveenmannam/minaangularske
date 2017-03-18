@@ -1,0 +1,2 @@
+# minaangularske
+Angular Skeleton App
